@@ -1,0 +1,95 @@
+#ac{
+	color: #00be1e;
+}
+
+.navbar{
+	background-color: black !important;
+	font-family: 'Merienda', cursive;
+}
+.navbar-brand{
+	color: white !important;
+	font-size: 34px;
+}
+
+.navbar .navbar-nav li a{
+	color: white !important;
+	font-size: 22px;
+}
+
+.navbar-toggler{
+	background-color: #33352a !important;
+	color: black !important;
+	float: right !important;
+}
+/* body */
+.carousel-item{
+	max-height: 400px;
+	height: 100% !important;
+
+	
+}
+
+.carousel-caption{
+  padding-bottom: 140px;
+  font-size: 30px;
+  
+  font-family: 'Merienda', cursive;
+}
+
+/* About */
+.hi{
+	background-color:whitesmoke;
+	height: 420px;
+	max-width: 720px;
+	width: 100%;
+	padding: 5px;
+	border-radius: 10px;
+	color: #000000;
+	text-align: center;
+	font-family: 'Merienda', cursive;
+	font-size: 17px;
+	border:5px solid #b9bdbc;
+}
+#hl{
+	padding: 5px;
+	margin: 5px;
+	width: 250px;
+	height: 250px;
+	margin-top:90px;
+	border-radius: 200px;
+	font-family: 'Merienda', cursive;
+	float: left;
+	border:3px solid #b9bdbc;
+}
+
+/* Resume*/
+.re{
+	background-color: whitesmoke;
+	border:2px solid #b9bdbc;
+	font-size: 20px;
+	margin: 5px;
+	padding: 7px;
+	color: #000000;
+}
+#res{
+font-family: 'Merienda', cursive;
+}
+
+
+#cv{
+	background-color: #380064;
+	color: white;
+	font-family: 'Merienda', cursive;
+	text-decoration: none;
+	outline: none;
+	border:none;
+	border-radius: 25px;
+	text-align: center;
+	padding: 7px;
+	font-size: 20px;
+	margin: 3px;
+}
+
+#hu{
+	font-family: 'Merienda', cursive;
+}
