@@ -67,9 +67,11 @@
 	background-color: whitesmoke;
 	border:2px solid #b9bdbc;
 	font-size: 20px;
-	margin: 5px;
+	margin: 7px;
 	padding: 7px;
 	color: #000000;
+	text-align: justify;
+	border-radius:10px;
 }
 #res{
 font-family: 'Merienda', cursive;
@@ -92,4 +94,15 @@ font-family: 'Merienda', cursive;
 
 #hu{
 	font-family: 'Merienda', cursive;
+}
+
+.vi{
+	background-color: whitesmoke;
+	padding: 7px;
+	font-family: 'Merienda', cursive;
+	color: #000000;
+	border:2px solid #b9bdbc;
+	border-radius: 10px;
+	margin: 7px;
+
 }
