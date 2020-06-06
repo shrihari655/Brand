@@ -18,7 +18,7 @@
 
 .navbar-toggler{
 	background-color: #33352a !important;
-	color: black !important;
+	color: white !important;
 	float: right !important;
 }
 /* body */
@@ -49,6 +49,8 @@
 	font-family: 'Merienda', cursive;
 	font-size: 17px;
 	border:5px solid #b9bdbc;
+	box-shadow: 4px 8px #b9bdbc;
+
 }
 #hl{
 	padding: 5px;
@@ -60,6 +62,7 @@
 	font-family: 'Merienda', cursive;
 	float: left;
 	border:3px solid #b9bdbc;
+	
 }
 
 /* Resume*/
@@ -72,6 +75,7 @@
 	color: #000000;
 	text-align: justify;
 	border-radius:10px;
+	box-shadow: 2px 4px #b9bdbc;
 }
 #res{
 font-family: 'Merienda', cursive;
@@ -104,5 +108,36 @@ font-family: 'Merienda', cursive;
 	border:2px solid #b9bdbc;
 	border-radius: 10px;
 	margin: 7px;
+	box-shadow: 2px 4px #b9bdbc;
+}
 
+#sk{
+	background-color: whitesmoke;
+	font-family: 'Merienda', cursive;
+	color: #000000;
+	padding: 5px;
+	margin: 7px;
+	border:2px solid #b9bdbc;
+	border-radius:10px;
+	box-shadow: 2px 4px #b9bdbc;
+
+}
+#sk img{
+	padding: 7px;
+}
+
+#sk p{
+	font-size: 18px;
+	color: #000000;
+}
+
+.ne{
+	background-color: #f78764;
+	margin: 7px;
+	padding: 7px;
+	border-radius: 10px;
+	border: 2px solid #f8905e;
+	font-size: 20px;
+	font-family: 'Merienda', cursive;
+	color: white;
 }
